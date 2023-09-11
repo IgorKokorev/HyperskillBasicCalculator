@@ -25,6 +25,8 @@
           <stringArguments>
             <stringArg name="classpath">
               <args>
+                <arg>$MODULE_DIR$/../../../../Basic Calculator/task/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Basic Calculator/task/build/intermediates/compile_app_classes_jar/debug/classes.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/db6b0aa19fe79f666dc3a1ceaa7ce012/transformed/jetified-viewbinding-7.4.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/1965ef224d288791189dabdd09bbea3a/transformed/jetified-robolectric-4.7.3.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/006331cf0068a1ec896dbe094afdfd25/transformed/jetified-shadows-framework-4.7.3.jar</arg>

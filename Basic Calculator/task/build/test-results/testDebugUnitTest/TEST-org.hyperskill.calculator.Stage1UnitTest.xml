@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.hyperskill.calculator.Stage1UnitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-09-08T16:13:22" hostname="iKoks-Ubuntu" time="3.655">
-  <properties/>
-  <testcase name="checkViews" classname="org.hyperskill.calculator.Stage1UnitTest" time="3.655"/>
-  <system-out><![CDATA[Called loadFromPath(/system/framework/framework-res.apk, true); mode=binary sdk=29
-resources.arsc in APK '/home/tamerlan/.m2/repository/org/robolectric/android-all-instrumented/10-robolectric-5803371-i3/android-all-instrumented-10-robolectric-5803371-i3.jar' is compressed.
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

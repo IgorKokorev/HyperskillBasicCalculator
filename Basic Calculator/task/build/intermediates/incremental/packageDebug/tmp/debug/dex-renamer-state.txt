@@ -1,4 +1,4 @@
-#Fri Sep 08 18:13:10 CEST 2023
+#Mon Sep 11 11:01:24 CEST 2023
 base.0=/home/tamerlan/AndroidStudioProjects/Basic Calculator/Basic Calculator/task/build/intermediates/dex/debug/mergeDexDebug/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

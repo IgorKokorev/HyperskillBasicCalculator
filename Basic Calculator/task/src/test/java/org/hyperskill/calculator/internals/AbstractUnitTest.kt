@@ -18,7 +18,6 @@ import java.time.Duration
 
 abstract class AbstractUnitTest<T : Activity>(clazz: Class<T>) {
 
-
     /**
      * Setup and control activities and their lifecycle
      */

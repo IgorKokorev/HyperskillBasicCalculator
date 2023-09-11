@@ -25,6 +25,7 @@
           <stringArguments>
             <stringArg name="classpath">
               <args>
+                <arg>$MODULE_DIR$/../../../../Basic Calculator/task/build/intermediates/compile_app_classes_jar/debug/classes.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/db6b0aa19fe79f666dc3a1ceaa7ce012/transformed/jetified-viewbinding-7.4.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/8631eb53cac000942892d528327a031b/transformed/jetified-kotlin-stdlib-jdk8-1.6.10.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/3987dd75913fece7913c1aacadea4a9c/transformed/jetified-core-ktx-1.6.0-api.jar</arg>
